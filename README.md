@@ -1,7 +1,7 @@
 # BestQuest4u
 
 ## Our Team
-Mentor: Smriti Shrivastava
+Mentor: Smriti Srivastava
 
 Co-mentor: Bhoomika Wavhal
 
